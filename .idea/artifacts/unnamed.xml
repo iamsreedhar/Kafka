@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-nop/1.8.0-alpha0" />
+    </root>
+  </artifact>
+</component>
